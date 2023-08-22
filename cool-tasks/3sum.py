@@ -6,7 +6,7 @@ class Solution:
 
         for i in nums:
             if i > 0:
-                p.append(i) 
+                p.append(i)
             elif i < 0:
                 n.append(i)
             else:
