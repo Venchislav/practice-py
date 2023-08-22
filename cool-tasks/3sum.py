@@ -2,6 +2,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res = set()
         n, p, z = [], [], []
+        
         for i in nums:
             if i > 0:
                 p.append(i)
