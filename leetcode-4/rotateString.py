@@ -1,4 +1,4 @@
-def rotateString(self, s, goal):
+def rotateString(s, goal):
     s_ = list(s)
     for _ in range(len(s)):
         s_.append(s_[0])
