@@ -8,3 +8,4 @@ def mostFrequentEven(nums):
 a = [1, 22, 2, 3, 3, 3, 2]
 print(mostFrequentEven(a))
 # well
+# my solution is not 100% correct for leetcode...
