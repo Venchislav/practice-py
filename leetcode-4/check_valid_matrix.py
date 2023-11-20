@@ -24,3 +24,4 @@ def checkValid(matrix):
 
 # Too complex, too bad, but it's mine
 # GIGACODE
+
