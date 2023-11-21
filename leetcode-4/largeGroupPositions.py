@@ -1,6 +1,6 @@
 def largeGroupPositions(s):
     l = 0
-    s += 'penis'
+    s += '0'
     res = []
 
     for idx, elem in enumerate(s):
