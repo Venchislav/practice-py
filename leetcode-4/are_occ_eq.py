@@ -6,3 +6,4 @@ def areOccurrencesEqual(s):
 
 
 print(areOccurrencesEqual("aaabb"))
+print(areOccurrencesEqual("ababcc"))
