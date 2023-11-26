@@ -10,3 +10,6 @@ def rowAndMaximumOnes(mat):
                 max_i = i
 
     return [max_i, max_r]
+
+
+print(rowAndMaximumOnes([[0,1],[1,0]]))
