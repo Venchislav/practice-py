@@ -13,3 +13,4 @@ def rowAndMaximumOnes(mat):
 
 
 print(rowAndMaximumOnes([[0,1],[1,0]]))
+print(rowAndMaximumOnes([[0,0,0],[0,1,1]]))
