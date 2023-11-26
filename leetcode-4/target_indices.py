@@ -8,3 +8,4 @@ nums = sorted(nums)
 
 print(targetIndices([1,2,5,2,3], 2))
 print(targetIndices([1,2,5,2,3], 3))
+print(targetIndices([1,2,5,2,3], 5))
